@@ -1,3 +1,3 @@
 # FakeNewsDetection2025
 
-Data available : https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data?select=True.csv
+Data available here : https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data?select=True.csv
